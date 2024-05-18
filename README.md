@@ -2,7 +2,7 @@
 
 ➮ 👩‍🎓 Second-year Computer Science student at Texas A&M University-Corpus Christi
 
-➮ ⚖️ Minoring in Criminal Justice and Mathematics
+➮ ⚖️ 🔢 Minoring in Criminal Justice and Mathematics
 
 ➮ 🔎 Aspiring digital forensics analyst
 
