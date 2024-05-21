@@ -12,4 +12,6 @@
 
 ➮ 📚 Studying network security and best practices
 
+➮ 🗂 Check out my portfolio! https://malakmahdyportfolio.blogspot.com/
+
 ➮ 📫 Let's connect on LinkedIn! https://www.linkedin.com/in/malak-mahdy/
