@@ -6,9 +6,9 @@
 
 ➮ 🔎 Aspiring digital forensics analyst
 
-➮ 💻 Currently working on projects using Python and SQL
+➮ 💻 Currently learning IT automation with Python
 
-➮ 💡 Developing a packet sniffer using Python
+➮ 💡 Developing a packet sniffer
 
 ➮ 📚 Studying network security and best practices
 
