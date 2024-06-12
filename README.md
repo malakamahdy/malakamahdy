@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-➮ 👩‍🎓 Second-year Computer Science student at Texas A&M University-Corpus Christi
+➮ 👩‍🎓 Third-year Computer Science student at Texas A&M University-Corpus Christi
 
 ➮ ⚖️ 🔢 Minoring in Criminal Justice and Mathematics
 
