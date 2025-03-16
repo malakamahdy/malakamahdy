@@ -4,10 +4,10 @@
 
 ➮ ⚖️ 🔢 Minoring in Criminal Justice and Mathematics
 
-➮ 🔎 Aspiring digital forensics analyst, seeking a career in academia
+➮ 👩‍🏫 Aspiring academic researcher
 
 ➮ 💻 Currently conducting research on the intersection of autonomous AI and security
 
-➮ 🗂 Check out my portfolio! https://malakmahdyportfolio.blogspot.com/
+➮ 🗂 Check out my portfolio! https://sites.google.com/view/malakmahdy
 
 ➮ 📫 Let's connect on LinkedIn! https://www.linkedin.com/in/malak-mahdy/
