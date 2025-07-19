@@ -16,7 +16,7 @@
 - ❀ Project I: Exploring LLM-pipeline optimization methods to analyze construction accident reports  
 - ❀ Project II: [NDA Protected] Optimization of LLMs for system analysis  
 
-📍 **UT El Paso & NMSU – CAHSI/NSF REU (Fall 2024 – Spring 2025, and current!)**  
+📍 **UT El Paso & NMSU – CAHSI/NSF REU (Fall 2024 & Spring 2025, and current!)**  
 *NSF-Funded Undergraduate Research Scholar*  
 - ❀ Focus: LLMs, autonomous agents, HCI, AI security
 - ❀ Secure and accurate GUI task automation using LLMs  
@@ -26,7 +26,7 @@
 ## 📚 ‧₊˚✧Publications:✧˚₊‧  
 
 ### 📄 Papers  
-- ❀ *NDA Paper on Large Language Models for System Analysis*, Under Review  
+- ❀ *NDA Paper on Large Language Models for System Analysis*, Under review  
 - ❀ *Beyond the Chatbox: A Security and Performance Evaluation of LLM-Powered Autonomous Agents*, In preparation  
 
 ### 📌 Posters  
