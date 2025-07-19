@@ -10,7 +10,7 @@
 
 ## 💻 ‎‧₊˚✧Current Research:✧˚₊‧  
 
-📍 **University of Nevada, Las Vegas – Smart Cities REU (Summer 2025)**  
+📍 **University of Nevada, Las Vegas – NSF Smart Cities REU (Summer 2025)**  
 *NSF-Funded Undergraduate Research Scholar*  
 - ❀ Focus: LLMs, optimization algorithms, prompt engineering  
 - ❀ Project I: Exploring LLM-pipeline optimization methods to analyze construction accident reports  
