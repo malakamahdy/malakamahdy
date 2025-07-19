@@ -1,13 +1,16 @@
 ### Hello! 👋
+𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼
 
-➮ 👩‍🎓 Third-year Computer Science student at Texas A&M University-Corpus Christi
+➮ 👩‍🎓 Computer Science student at Texas A&M University-Corpus Christi (Fall '25)
 
-➮ ⚖️ 🔢 Minoring in Criminal Justice and Mathematics
+➮ ⚖️ 🔢 Minoring in Mathematics and Criminal Justice
 
 ➮ 👩‍🏫 Aspiring academic researcher
 
-➮ 💻 Currently conducting research on the intersection of autonomous AI and security
+➮ 💻 ‎‧₊˚✧Current Research:✧˚₊‧
 
-➮ 🗂 Check out my portfolio! https://sites.google.com/view/malakmahdy
+➮ 🗂 [Check out my portfolio!](https://www.malakmahdy.com/)
 
-➮ 📫 Let's connect on LinkedIn! https://www.linkedin.com/in/malak-mahdy/
+➮ 📫 [Let's connect on LinkedIn!](https://www.linkedin.com/in/malak-mahdy/) 
+
+𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 
