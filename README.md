@@ -21,8 +21,7 @@
 - ❀ Developed assessment rubrics for evaluating AI system safety and autonomy  
 - ❀ Integrated HCI principles into LLM-powered systems for more ethical and effective design  
 
-<p align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 📚 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼</p>  
-<h3 align="center">Publications</h3>  
+## 📚 ‧₊˚✧Publications:✧˚₊‧  
 
 - ❀ *NDA Paper on Large Language Models for System Analysis*, Under Review  
 - ❀ *Beyond the Chatbox: A Security and Performance Evaluation of LLM-Powered Autonomous Agents*, In preparation  
