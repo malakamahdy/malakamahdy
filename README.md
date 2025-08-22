@@ -20,8 +20,6 @@
 *NSF-Funded Undergraduate Research Scholar*  
 - ❀ Focus: LLMs, autonomous agents, HCI, AI security
 - ❀ Secure and accurate GUI task automation using LLMs  
-- ❀ Developed assessment rubrics for evaluating AI system safety and autonomy  
-- ❀ Integrated HCI principles into LLM-powered systems for more ethical and effective design  
 
 ## 📚 ‧₊˚✧Publications:✧˚₊‧  
 
@@ -32,4 +30,3 @@
 ### 📌 Posters  
 - ❀ *Exploring Large Language Models for Secure Computer Task Automation*, April 2025  
 - ❀ *NDA Research Poster: Large Language Models for System Analysis*, July 2025  
-- ❀ *Investigating Large Language Models for Efficient Construction Accident Analysis*, July 2025  
