@@ -1,7 +1,7 @@
-<h2 align="center">Hello! 👋</h2>
+<h2 align="center">Hello! ◡̈</h2>
 <p align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡 ⋆.˚ 𓇼</p>
 
-➮ 👩‍🎓 Computer Science student at Texas A&M University–Corpus Christi (’25)<br>
+➮ 👩‍🎓 Computer Science undergraduate student at Texas A&M University–Corpus Christi (Fall ’25)<br>
 ➮ ⚖️🔢 Minoring in Mathematics and Criminal Justice<br>
 ➮ 👩‍🔬 NSF-funded undergraduate researcher in LLMs, machine learning, and applied AI<br>
 ➮ 👩‍🏫 Teaching Assistant for College Algebra<br>
