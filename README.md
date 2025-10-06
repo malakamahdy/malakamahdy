@@ -1,32 +1,8 @@
-<h2 align="center">Hello! 👋</h2>  
-<p align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼 𓇼 ⋆.˚ 𓆉 𓆝 𓆡⋆.˚ 𓇼</p>  
+<h2 align="center">Hello! 👋</h2> <p align="center">𓇼 ⋆.˚ 𓆉 𓆝 𓆡 ⋆.˚ 𓇼</p>
 
-➮ 👩‍🎓 Computer Science student at Texas A&M University–Corpus Christi (Fall '25)  
-➮ ⚖️🔢 Minoring in Mathematics and Criminal Justice  
-➮ 👩‍🔬 NSF-funded undergraduate researcher in LLMs, machine learning, and applied AI with experience in interdisciplinary research
-➮ 👩‍🏫 Aspiring academic researcher & future Computer Science professor  
-➮ 🌐 [Check out my portfolio!](https://www.malakmahdy.com/)  
-➮ 📫 [Let’s connect on LinkedIn!](https://www.linkedin.com/in/malak-mahdy/)  
-
-## 💻 ‎‧₊˚✧Current Research:✧˚₊‧  
-
-📍 **University of Nevada, Las Vegas – NSF Smart Cities REU (Summer 2025)**  
-*NSF-Funded Undergraduate Research Scholar*  
-- ❀ Focus: LLMs, optimization algorithms, prompt engineering  
-- ❀ Project I: Exploring LLM-pipeline optimization methods to analyze construction accident reports  
-- ❀ Project II: [NDA Protected] Optimization of LLMs for system analysis  
-
-📍 **UT El Paso & NMSU – CAHSI/NSF REU (Fall 2024 & Spring 2025, and current!)**  
-*NSF-Funded Undergraduate Research Scholar*  
-- ❀ Focus: LLMs, autonomous agents, HCI, AI security
-- ❀ Secure and accurate GUI task automation using LLMs  
-
-## 📚 ‧₊˚✧Publications:✧˚₊‧  
-
-### 📄 Papers  
-- ❀ *NDA Paper on Large Language Models for System Analysis*, Under review  
-- ❀ *Beyond the Chatbox: A Security and Performance Evaluation of LLM-Powered Autonomous Agents*, In preparation  
-
-### 📌 Posters  
-- ❀ *Exploring Large Language Models for Secure Computer Task Automation*, April 2025  
-- ❀ *NDA Research Poster: Large Language Models for System Analysis*, July 2025  
+➮ 👩‍🎓 Computer Science student at Texas A&M University–Corpus Christi (’25)
+➮ ⚖️🔢 Minoring in Mathematics and Criminal Justice
+➮ 👩‍🔬 NSF-funded undergraduate researcher in LLMs, machine learning, and applied AI
+➮ 👩‍🏫 Teaching Assistant for College Algebra
+➮ 🌐 [Check out my portfolio!](https://www.malakmahdy.com/) 
+➮ 📫 [Let’s connect on LinkedIn!](https://www.linkedin.com/in/malak-mahdy/)
