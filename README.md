@@ -5,5 +5,4 @@
 ➮ ⚖️🔢 Minoring in Mathematics and Criminal Justice<br>
 ➮ 👩‍🔬 Undergraduate researcher in agentic AI and security<br>
 ➮ 👩‍🏫 Teaching Assistant for College Algebra<br>
-➮ 🌐 <a href="https://malakmahdy.com/">Check out my portfolio!</a><br>
 ➮ 📫 <a href="https://www.linkedin.com/in/malak-mahdy/">Let’s connect on LinkedIn!</a>
