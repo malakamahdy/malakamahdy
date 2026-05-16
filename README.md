@@ -1,6 +1,6 @@
 ![banner](banner.jpeg)
 
-## *Peace!* ◡̈
+## *Peace be upon you!* ◡̈
 
 🪷 Based in TX, USA | 🔬 Research interests in AI safety and alignment
 
