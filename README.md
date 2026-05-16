@@ -1,34 +1,23 @@
-# Hi there, I'm Malak! 👋
+## *Peace*, I'm Malak! ◡̈
 
-🌟 Based in Corpus Christi, TX | 🔬 Passionate about AI, security, and solving hard problems
+🪷 Based in TX, USA | 🔬 Research interests in AI safety and alignment
 
-*Computer Science | Mathematics | Criminal Justice | Agentic AI Research | Teaching Assistant*
-
-Welcome to my GitHub! I'm a CS undergrad at Texas A&M University–Corpus Christi with a passion for building intelligent systems and exploring the intersection of AI and security. I love learning, teaching, and pushing the boundaries of what's possible with code.
+Welcome to my GitHub! I'm an MSCS student at Texas A&M University–Corpus Christi. My research centers on the safety and trustworthiness of agentic and multi-agent AI systems, particularly alignment failures, unsafe behavior in LLM agents, and LLM security.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=333)
-
----
-
-## 🎓 About Me
-
-- 👩‍🎓 CS undergraduate at **Texas A&M University–Corpus Christi** (Fall '25)
-- ⚖️🔢 Minoring in **Mathematics** and **Criminal Justice**
-- 👩‍🔬 Undergraduate researcher in **agentic AI and security**
-- 👩‍🏫 Teaching Assistant for **College Algebra**
+![Python](https://img.shields.io/badge/Python-f4a7b9?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-f9c4d2?style=for-the-badge&logo=c&logoColor=555)
+![C++](https://img.shields.io/badge/C++-f7b8c8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f2a0b8?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fce4ec?style=for-the-badge&logo=javascript&logoColor=c2707a)
 
 ---
 
-## 🌊 Let's Connect!
+### 🪷 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-mahdy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f4a7b9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-mahdy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f7b8c8?style=for-the-badge&logo=safari&logoColor=white)](https://malakmahdy.com)
+[![Gmail](https://img.shields.io/badge/Gmail-f9c4d2?style=for-the-badge&logo=gmail&logoColor=c2707a)](mailto:malakmahdy@gmail.com)
