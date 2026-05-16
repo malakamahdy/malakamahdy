@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an MSCS student at Texas A&M University–Corpus Chris
 
 ---
 
-### 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-f4a7b9?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-f9c4d2?style=for-the-badge&logo=c&logoColor=555)
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm an MSCS student at Texas A&M University–Corpus Chris
 
 ---
 
-### 🪷 Let's Connect!
+#### 🪷 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f4a7b9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-mahdy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-f7b8c8?style=for-the-badge&logo=safari&logoColor=white)](https://malakmahdy.com)
