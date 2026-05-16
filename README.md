@@ -1,3 +1,5 @@
+![banner](banner.jpeg)
+
 ## *Peace*, I'm Malak! ◡̈
 
 🪷 Based in TX, USA | 🔬 Research interests in AI safety and alignment
